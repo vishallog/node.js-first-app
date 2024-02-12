@@ -1,0 +1,48 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+main{
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    padding: 10px;
+    background-color:   rgb(243, 240, 237);
+    padding: 2rem;
+
+}
+h1{
+    padding-left: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 100%;
+}
+form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width: 60%;
+}
+input{
+    justify-content: center;
+    padding: 10px 5px;
+    width: 100%;
+    margin:10px 0px;
+    border-radius: px;
+}
+button{
+    justify-content: center;
+    padding:10px 5px;
+    margin:10px 0px;
+    text-size-adjust: 10px;
+    border-style: hidden;
+    border-color: cadetblue;
+    background-color: cadetblue ;
+    
+    width: 100%;
+}
